@@ -14,3 +14,9 @@ Provavelmente você terá que dar um
 npm audit fix --force
 ```
 Uma parada assim
+
+Aí depois só lanç
+
+```bash
+npm run dev
+```
